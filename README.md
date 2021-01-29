@@ -8,7 +8,7 @@ The videos can be watched with the HTML/JS decoder in VideoTomb/player directory
 
 Mono support is untested, currently working on it, but depends on Accord.
 
-Noise hash functionality as an alternative to image mask is still in the source, but the Javascript side has been lost partially. I've decided to exclude it, but maybe I'll get back to it. This would allow to supply an encryption/decryption hash in the url.
+Noise hash functionality as an alternative to image mask is still in the source, but the Javascript side has been lost partially. I've decided to exclude it, but maybe I'll get back to it. This would allow to supply an encryption/decryption hash in the url. The original Javascript code has been lost and only the Uglified version remained. I've put it through a beautifier but I can't seem to find why noise hash functionality doesn't work.. Sorry!
 
 I tried to clean up the directories and files a bit, but am no longer actively working on the project.
 
