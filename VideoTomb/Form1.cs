@@ -56,7 +56,7 @@ namespace VideoTomb
             }
         }
 
-        private async void StartButton_Click(object sender, EventArgs e)
+        private void StartButton_Click(object sender, EventArgs e)
         {
             if (processor != null)
             {

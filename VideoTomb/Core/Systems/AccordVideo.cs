@@ -36,8 +36,6 @@ namespace VideoTomb.Core.Systems
         {
             base.CheckPath();
 
-            Console.WriteLine(typeof(Accord.DirectSound.AudioDeviceInfo));
-
             string outputPath = this.descr.OutputDir + "\\" + Path.GetFileName(inputPath);
             string wavPath = this.descr.OutputDir + "\\Audio_" + Path.GetFileNameWithoutExtension(inputPath) + ".wav";
             string wavNoisePath = this.descr.OutputDir + "\\Noise_" + Path.GetFileNameWithoutExtension(inputPath) + ".wav";
