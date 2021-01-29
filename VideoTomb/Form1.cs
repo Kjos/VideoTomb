@@ -23,8 +23,8 @@ namespace VideoTomb
             InitializeComponent();
 
             this.outputPath.Text = Environment.GetFolderPath(Environment.SpecialFolder.MyVideos);
-            this.inputDialog.Filter = "Video Files (*.mp4;*.mov;*.webm)|*.MP4;*.MOV;*.WEBM";
-            this.maskDialog.Filter = "Image Files (*.png;*.jpeg;*.jpg;*.bmp)|*.PNG;*.JPEG;*.JPG;*.BMP";
+            this.inputDialog.Filter = "Video Files (*.mp4;*.mov;*.webm)|*.mp4;*.mov;*.webm";
+            this.maskDialog.Filter = "Image Files (*.png;*.jpeg;*.jpg;*.bmp)|*.png;*.jpeg;*.jpg;*.bmp";
         }
 
         private void LinkLabel_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
