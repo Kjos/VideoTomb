@@ -1,4 +1,4 @@
-# VideoTomb
+# VideoTomb: Video obfuscator
 
 VideoTomb obfuscates videos so humans won't be able to see the content, and they'll probably pass video restriction detections as well.
 
