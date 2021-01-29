@@ -1,23 +1,29 @@
 ﻿<Properties StartupConfiguration="{F7E4706F-4505-4BFD-8BA2-C4EF75475A4F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="VideoTomb/player/index.html">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VideoTomb/Properties/Resources.Designer.cs">
     <Files>
-      <File FileName="VideoTomb/Form1.cs" Line="25" Column="1" />
-      <File FileName="VideoTomb/Form1.Designer.cs" Line="590" Column="1" />
+      <File FileName="VideoTomb/Form1.cs" Line="60" Column="9" />
+      <File FileName="VideoTomb/Form1.Designer.cs" Line="121" Column="54" />
       <File FileName="VideoTomb/Core/Util/Util.cs" Line="46" Column="40" />
       <File FileName="VideoTomb/Core/Util/ImageUtil.cs" Line="15" Column="41" />
       <File FileName="VideoTomb/Core/Processing/ImageProcessor.cs" Line="109" Column="17" />
-      <File FileName="VideoTomb/player/index.html" Line="1" Column="1" />
+      <File FileName="VideoTomb/player/index.html" Line="83" Column="29" />
+      <File FileName="VideoTomb/Properties/Resources.resx" Line="32" Column="5" />
+      <File FileName="VideoTomb/Properties/Resources.Designer.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="VideoTomb" expanded="True">
             <Node name="VideoTomb" expanded="True">
+              <Node name="References" expanded="True" />
               <Node name="Core" expanded="True">
                 <Node name="Processing" expanded="True" />
               </Node>
-              <Node name="player" expanded="True">
-                <Node name="index.html" selected="True" />
+              <Node name="player" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="Resources.resx" expanded="True">
+                  <Node name="Resources.Designer.cs" selected="True" />
+                </Node>
               </Node>
               <Node name="Form1.cs" expanded="True" />
             </Node>
