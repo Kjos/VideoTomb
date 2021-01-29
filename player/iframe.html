@@ -1,0 +1,45 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="referrer" content="no-referrer">
+	<meta name="robots" content="noindex">
+	<meta name="description" content="VideoTomb hides video for online video players using steganography.">
+	<title>VideoTomb.com</title>
+    <style>
+    body {
+        overflow: hidden;
+        background-color: #000;
+        margin: 0px;
+        padding: 0px;
+    }
+    #video {
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        z-index: 4;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+        background-color: #000;
+    }
+    </style>
+    <script>
+    window.onload = window.onhashchange = function() {
+        var url = window.location.hash.substring(1);
+        if (url) {
+            console.log(url);
+            var el = document.createElement('video');
+            el.id = 'video';
+            el.src = url;
+            el.setAttribute('controls', 'controls');
+            document.body.appendChild(el);
+        }
+    };
+    </script>
+</head>
+<body>
+
+</body>
+</html>
