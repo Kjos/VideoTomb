@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebuggerFlavor>AppHostLocalDebugger</DebuggerFlavor>
+    <RemoteDebugEnabled>False</RemoteDebugEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <DebuggerFlavor>AppHostLocalDebugger</DebuggerFlavor>
+    <RemoteDebugEnabled>False</RemoteDebugEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <DebuggerFlavor>AppHostLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Source>F:\VideoTomb\Images\logo.png</Source>
+    <SmallTileSource>F:\VideoTomb\Images\logo.png</SmallTileSource>
+    <MediumTileSource>F:\VideoTomb\Images\logo.png</MediumTileSource>
+    <WideTileSource>F:\VideoTomb\Images\logo.png</WideTileSource>
+    <LargeTileSource>F:\VideoTomb\Images\logo.png</LargeTileSource>
+    <AppIconSource>F:\VideoTomb\Images\logo.png</AppIconSource>
+    <SplashScreenSource>F:\VideoTomb\Images\logo.png</SplashScreenSource>
+    <PackageLogoSource>F:\VideoTomb\Images\logo.png</PackageLogoSource>
+    <BadgeLogoSource>F:\VideoTomb\Images\logo.png</BadgeLogoSource>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,815 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-D77TUCF</Machine>
+    <WindowsUser>Kajos</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>85d350e1-d1e7-4163-bec1-ecb976c3775a</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Kajos</PackageIdentityPublisher>
+    <IntermediateOutputPath>F:\VideoTomb\Packaging\obj\x64\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>F:\VideoTomb\Packaging\bin\x64\Release\AppX</LayoutDir>
+    <RegisteredManifestChecksum>A30E1EDCA0874BB3EE892106C65A4086EE994625531616A49F127BF1FD1940B1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>85d350e1-d1e7-4163-bec1-ecb976c3775a_1.0.0.0_x64__2p4dg90wft6g0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>85d350e1-d1e7-4163-bec1-ecb976c3775a_2p4dg90wft6g0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>85d350e1-d1e7-4163-bec1-ecb976c3775a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Kajos</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\VideoTomb\Packaging\bin\x64\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:43:21.492</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\BadgeLogo.scale-400.png">
+      <PackagePath>BadgeLogo.scale-400.png</PackagePath>
+      <Modified>2019-12-13T10:38:10.090</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\BadgeLogo.scale-100.png">
+      <PackagePath>Images\BadgeLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:43:11.083</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\BadgeLogo.scale-125.png">
+      <PackagePath>Images\BadgeLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:42:58.667</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\BadgeLogo.scale-150.png">
+      <PackagePath>Images\BadgeLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:42:45.395</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\BadgeLogo.scale-200.png">
+      <PackagePath>Images\BadgeLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:42:30.030</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\BadgeLogo.scale-400.png">
+      <PackagePath>Images\BadgeLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:42:09.401</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\LargeTile.scale-100.png">
+      <PackagePath>Images\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:36.222</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\LargeTile.scale-125.png">
+      <PackagePath>Images\LargeTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:36.245</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\LargeTile.scale-150.png">
+      <PackagePath>Images\LargeTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:36.275</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\LargeTile.scale-200.png">
+      <PackagePath>Images\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:36.325</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\LargeTile.scale-400.png">
+      <PackagePath>Images\LargeTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:36.512</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\SmallTile.scale-100.png">
+      <PackagePath>Images\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:35.930</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\SmallTile.scale-125.png">
+      <PackagePath>Images\SmallTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:35.937</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\SmallTile.scale-150.png">
+      <PackagePath>Images\SmallTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:35.943</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\SmallTile.scale-200.png">
+      <PackagePath>Images\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:35.951</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\SmallTile.scale-400.png">
+      <PackagePath>Images\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:35.969</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\SplashScreen.scale-100.png">
+      <PackagePath>Images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:36.658</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\SplashScreen.scale-125.png">
+      <PackagePath>Images\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:36.692</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\SplashScreen.scale-150.png">
+      <PackagePath>Images\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:36.740</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\SplashScreen.scale-200.png">
+      <PackagePath>Images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:36.820</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\SplashScreen.scale-400.png">
+      <PackagePath>Images\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:37.159</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\Square150x150Logo.scale-100.png">
+      <PackagePath>Images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:35.978</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\Square150x150Logo.scale-125.png">
+      <PackagePath>Images\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:35.987</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\Square150x150Logo.scale-150.png">
+      <PackagePath>Images\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:35.998</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\Square150x150Logo.scale-200.png">
+      <PackagePath>Images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:36.015</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\Square150x150Logo.scale-400.png">
+      <PackagePath>Images\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:36.063</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\Square44x44Logo.altform-unplated_targetsize-16.png">
+      <PackagePath>Images\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:36.589</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\Square44x44Logo.altform-unplated_targetsize-256.png">
+      <PackagePath>Images\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:36.634</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\Square44x44Logo.altform-unplated_targetsize-32.png">
+      <PackagePath>Images\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:36.598</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\Square44x44Logo.altform-unplated_targetsize-48.png">
+      <PackagePath>Images\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:36.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\Square44x44Logo.scale-100.png">
+      <PackagePath>Images\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:36.518</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\Square44x44Logo.scale-125.png">
+      <PackagePath>Images\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:36.523</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\Square44x44Logo.scale-150.png">
+      <PackagePath>Images\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:36.528</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\Square44x44Logo.scale-200.png">
+      <PackagePath>Images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:36.534</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\Square44x44Logo.scale-400.png">
+      <PackagePath>Images\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:36.546</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:36.550</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:36.554</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:36.594</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:36.585</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\Square44x44Logo.targetsize-32.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:36.559</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:36.564</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\StoreLogo.scale-100.png">
+      <PackagePath>Images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:37.207</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\StoreLogo.scale-125.png">
+      <PackagePath>Images\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:37.212</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\StoreLogo.scale-150.png">
+      <PackagePath>Images\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:37.219</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\StoreLogo.scale-200.png">
+      <PackagePath>Images\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:37.227</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\StoreLogo.scale-400.png">
+      <PackagePath>Images\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:37.245</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\Wide310x150Logo.scale-100.png">
+      <PackagePath>Images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:36.073</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\Wide310x150Logo.scale-125.png">
+      <PackagePath>Images\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:36.085</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\Wide310x150Logo.scale-150.png">
+      <PackagePath>Images\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:36.101</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\Wide310x150Logo.scale-200.png">
+      <PackagePath>Images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:36.125</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\Images\Wide310x150Logo.scale-400.png">
+      <PackagePath>Images\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-13T10:39:36.206</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+      <Modified>2018-10-22T22:44:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\Packaging\bin\x64\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2019-12-13T10:43:20.889</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net462\lib\System.Runtime.InteropServices.RuntimeInformation.dll">
+      <PackagePath>VideoTomb\System.Runtime.InteropServices.RuntimeInformation.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\Microsoft.Win32.Primitives.dll">
+      <PackagePath>VideoTomb\Microsoft.Win32.Primitives.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\netstandard.dll">
+      <PackagePath>VideoTomb\netstandard.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.AppContext.dll">
+      <PackagePath>VideoTomb\System.AppContext.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Collections.Concurrent.dll">
+      <PackagePath>VideoTomb\System.Collections.Concurrent.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Collections.dll">
+      <PackagePath>VideoTomb\System.Collections.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Collections.NonGeneric.dll">
+      <PackagePath>VideoTomb\System.Collections.NonGeneric.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Collections.Specialized.dll">
+      <PackagePath>VideoTomb\System.Collections.Specialized.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.ComponentModel.dll">
+      <PackagePath>VideoTomb\System.ComponentModel.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.ComponentModel.EventBasedAsync.dll">
+      <PackagePath>VideoTomb\System.ComponentModel.EventBasedAsync.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.ComponentModel.Primitives.dll">
+      <PackagePath>VideoTomb\System.ComponentModel.Primitives.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.ComponentModel.TypeConverter.dll">
+      <PackagePath>VideoTomb\System.ComponentModel.TypeConverter.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Console.dll">
+      <PackagePath>VideoTomb\System.Console.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Data.Common.dll">
+      <PackagePath>VideoTomb\System.Data.Common.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Diagnostics.Contracts.dll">
+      <PackagePath>VideoTomb\System.Diagnostics.Contracts.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Diagnostics.Debug.dll">
+      <PackagePath>VideoTomb\System.Diagnostics.Debug.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Diagnostics.FileVersionInfo.dll">
+      <PackagePath>VideoTomb\System.Diagnostics.FileVersionInfo.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Diagnostics.Process.dll">
+      <PackagePath>VideoTomb\System.Diagnostics.Process.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Diagnostics.StackTrace.dll">
+      <PackagePath>VideoTomb\System.Diagnostics.StackTrace.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Diagnostics.TextWriterTraceListener.dll">
+      <PackagePath>VideoTomb\System.Diagnostics.TextWriterTraceListener.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Diagnostics.Tools.dll">
+      <PackagePath>VideoTomb\System.Diagnostics.Tools.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Diagnostics.TraceSource.dll">
+      <PackagePath>VideoTomb\System.Diagnostics.TraceSource.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Diagnostics.Tracing.dll">
+      <PackagePath>VideoTomb\System.Diagnostics.Tracing.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Drawing.Primitives.dll">
+      <PackagePath>VideoTomb\System.Drawing.Primitives.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Dynamic.Runtime.dll">
+      <PackagePath>VideoTomb\System.Dynamic.Runtime.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Globalization.Calendars.dll">
+      <PackagePath>VideoTomb\System.Globalization.Calendars.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Globalization.dll">
+      <PackagePath>VideoTomb\System.Globalization.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Globalization.Extensions.dll">
+      <PackagePath>VideoTomb\System.Globalization.Extensions.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.IO.Compression.dll">
+      <PackagePath>VideoTomb\System.IO.Compression.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.IO.Compression.ZipFile.dll">
+      <PackagePath>VideoTomb\System.IO.Compression.ZipFile.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.IO.dll">
+      <PackagePath>VideoTomb\System.IO.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.IO.FileSystem.dll">
+      <PackagePath>VideoTomb\System.IO.FileSystem.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.IO.FileSystem.DriveInfo.dll">
+      <PackagePath>VideoTomb\System.IO.FileSystem.DriveInfo.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.IO.FileSystem.Primitives.dll">
+      <PackagePath>VideoTomb\System.IO.FileSystem.Primitives.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.IO.FileSystem.Watcher.dll">
+      <PackagePath>VideoTomb\System.IO.FileSystem.Watcher.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.IO.IsolatedStorage.dll">
+      <PackagePath>VideoTomb\System.IO.IsolatedStorage.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.IO.MemoryMappedFiles.dll">
+      <PackagePath>VideoTomb\System.IO.MemoryMappedFiles.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.IO.Pipes.dll">
+      <PackagePath>VideoTomb\System.IO.Pipes.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.IO.UnmanagedMemoryStream.dll">
+      <PackagePath>VideoTomb\System.IO.UnmanagedMemoryStream.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Linq.dll">
+      <PackagePath>VideoTomb\System.Linq.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Linq.Expressions.dll">
+      <PackagePath>VideoTomb\System.Linq.Expressions.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Linq.Parallel.dll">
+      <PackagePath>VideoTomb\System.Linq.Parallel.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Linq.Queryable.dll">
+      <PackagePath>VideoTomb\System.Linq.Queryable.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Net.Http.dll">
+      <PackagePath>VideoTomb\System.Net.Http.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Net.NameResolution.dll">
+      <PackagePath>VideoTomb\System.Net.NameResolution.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Net.NetworkInformation.dll">
+      <PackagePath>VideoTomb\System.Net.NetworkInformation.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Net.Ping.dll">
+      <PackagePath>VideoTomb\System.Net.Ping.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Net.Primitives.dll">
+      <PackagePath>VideoTomb\System.Net.Primitives.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Net.Requests.dll">
+      <PackagePath>VideoTomb\System.Net.Requests.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Net.Security.dll">
+      <PackagePath>VideoTomb\System.Net.Security.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Net.Sockets.dll">
+      <PackagePath>VideoTomb\System.Net.Sockets.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Net.WebHeaderCollection.dll">
+      <PackagePath>VideoTomb\System.Net.WebHeaderCollection.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Net.WebSockets.Client.dll">
+      <PackagePath>VideoTomb\System.Net.WebSockets.Client.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Net.WebSockets.dll">
+      <PackagePath>VideoTomb\System.Net.WebSockets.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.ObjectModel.dll">
+      <PackagePath>VideoTomb\System.ObjectModel.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Reflection.dll">
+      <PackagePath>VideoTomb\System.Reflection.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Reflection.Extensions.dll">
+      <PackagePath>VideoTomb\System.Reflection.Extensions.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Reflection.Primitives.dll">
+      <PackagePath>VideoTomb\System.Reflection.Primitives.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Resources.Reader.dll">
+      <PackagePath>VideoTomb\System.Resources.Reader.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Resources.ResourceManager.dll">
+      <PackagePath>VideoTomb\System.Resources.ResourceManager.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Resources.Writer.dll">
+      <PackagePath>VideoTomb\System.Resources.Writer.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Runtime.CompilerServices.VisualC.dll">
+      <PackagePath>VideoTomb\System.Runtime.CompilerServices.VisualC.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Runtime.dll">
+      <PackagePath>VideoTomb\System.Runtime.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Runtime.Extensions.dll">
+      <PackagePath>VideoTomb\System.Runtime.Extensions.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Runtime.Handles.dll">
+      <PackagePath>VideoTomb\System.Runtime.Handles.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Runtime.InteropServices.dll">
+      <PackagePath>VideoTomb\System.Runtime.InteropServices.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Runtime.Numerics.dll">
+      <PackagePath>VideoTomb\System.Runtime.Numerics.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Runtime.Serialization.Formatters.dll">
+      <PackagePath>VideoTomb\System.Runtime.Serialization.Formatters.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Runtime.Serialization.Json.dll">
+      <PackagePath>VideoTomb\System.Runtime.Serialization.Json.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Runtime.Serialization.Primitives.dll">
+      <PackagePath>VideoTomb\System.Runtime.Serialization.Primitives.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Runtime.Serialization.Xml.dll">
+      <PackagePath>VideoTomb\System.Runtime.Serialization.Xml.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Security.Claims.dll">
+      <PackagePath>VideoTomb\System.Security.Claims.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Security.Cryptography.Algorithms.dll">
+      <PackagePath>VideoTomb\System.Security.Cryptography.Algorithms.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Security.Cryptography.Csp.dll">
+      <PackagePath>VideoTomb\System.Security.Cryptography.Csp.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Security.Cryptography.Encoding.dll">
+      <PackagePath>VideoTomb\System.Security.Cryptography.Encoding.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Security.Cryptography.Primitives.dll">
+      <PackagePath>VideoTomb\System.Security.Cryptography.Primitives.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Security.Cryptography.X509Certificates.dll">
+      <PackagePath>VideoTomb\System.Security.Cryptography.X509Certificates.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Security.Principal.dll">
+      <PackagePath>VideoTomb\System.Security.Principal.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Security.SecureString.dll">
+      <PackagePath>VideoTomb\System.Security.SecureString.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Text.Encoding.dll">
+      <PackagePath>VideoTomb\System.Text.Encoding.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Text.Encoding.Extensions.dll">
+      <PackagePath>VideoTomb\System.Text.Encoding.Extensions.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Text.RegularExpressions.dll">
+      <PackagePath>VideoTomb\System.Text.RegularExpressions.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Threading.dll">
+      <PackagePath>VideoTomb\System.Threading.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Threading.Overlapped.dll">
+      <PackagePath>VideoTomb\System.Threading.Overlapped.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Threading.Tasks.dll">
+      <PackagePath>VideoTomb\System.Threading.Tasks.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Threading.Tasks.Parallel.dll">
+      <PackagePath>VideoTomb\System.Threading.Tasks.Parallel.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Threading.Thread.dll">
+      <PackagePath>VideoTomb\System.Threading.Thread.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Threading.ThreadPool.dll">
+      <PackagePath>VideoTomb\System.Threading.ThreadPool.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Threading.Timer.dll">
+      <PackagePath>VideoTomb\System.Threading.Timer.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Xml.ReaderWriter.dll">
+      <PackagePath>VideoTomb\System.Xml.ReaderWriter.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Xml.XDocument.dll">
+      <PackagePath>VideoTomb\System.Xml.XDocument.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Xml.XmlDocument.dll">
+      <PackagePath>VideoTomb\System.Xml.XmlDocument.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Xml.XmlSerializer.dll">
+      <PackagePath>VideoTomb\System.Xml.XmlSerializer.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Xml.XPath.dll">
+      <PackagePath>VideoTomb\System.Xml.XPath.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Xml.XPath.XDocument.dll">
+      <PackagePath>VideoTomb\System.Xml.XPath.XDocument.dll</PackagePath>
+      <Modified>2019-09-24T10:43:54.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\packages\Accord.DirectSound.3.8.2-alpha\lib\net462\Accord.Audio.DirectSound.dll">
+      <PackagePath>VideoTomb\Accord.Audio.DirectSound.dll</PackagePath>
+      <Modified>2017-11-07T00:47:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\packages\Accord.Audio.3.8.2-alpha\lib\net462\Accord.Audio.dll">
+      <PackagePath>VideoTomb\Accord.Audio.dll</PackagePath>
+      <Modified>2017-11-07T00:47:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\packages\Accord.3.8.2-alpha\lib\net462\Accord.dll">
+      <PackagePath>VideoTomb\Accord.dll</PackagePath>
+      <Modified>2017-11-07T00:48:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\packages\Accord.Math.3.8.2-alpha\lib\net462\Accord.Math.Core.dll">
+      <PackagePath>VideoTomb\Accord.Math.Core.dll</PackagePath>
+      <Modified>2017-11-07T00:48:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\packages\Accord.Math.3.8.2-alpha\lib\net462\Accord.Math.dll">
+      <PackagePath>VideoTomb\Accord.Math.dll</PackagePath>
+      <Modified>2017-11-07T00:48:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\packages\Accord.Video.3.8.2-alpha\lib\net462\Accord.Video.dll">
+      <PackagePath>VideoTomb\Accord.Video.dll</PackagePath>
+      <Modified>2017-11-07T00:48:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\packages\Accord.Video.FFMPEG.x64.3.8.2-alpha\lib\net462\Accord.Video.FFMPEG.x64.dll">
+      <PackagePath>VideoTomb\Accord.Video.FFMPEG.x64.dll</PackagePath>
+      <Modified>2019-11-27T12:06:57.454</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\packages\MaterialSkin.0.2.1\lib\MaterialSkin.dll">
+      <PackagePath>VideoTomb\MaterialSkin.dll</PackagePath>
+      <Modified>2015-05-18T11:45:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\packages\SharpDX.DirectSound.4.0.1\lib\net45\SharpDX.DirectSound.dll">
+      <PackagePath>VideoTomb\SharpDX.DirectSound.dll</PackagePath>
+      <Modified>2017-05-30T08:03:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\packages\SharpDX.4.0.1\lib\net45\SharpDX.dll">
+      <PackagePath>VideoTomb\SharpDX.dll</PackagePath>
+      <Modified>2017-05-30T08:02:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\packages\System.Buffers.4.4.0\lib\netstandard2.0\System.Buffers.dll">
+      <PackagePath>VideoTomb\System.Buffers.dll</PackagePath>
+      <Modified>2017-07-19T08:01:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\packages\System.Diagnostics.DiagnosticSource.4.3.0\lib\net46\System.Diagnostics.DiagnosticSource.dll">
+      <PackagePath>VideoTomb\System.Diagnostics.DiagnosticSource.dll</PackagePath>
+      <Modified>2016-11-05T03:55:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Reference Assemblies\Microsoft\Framework\.NETCore\v4.5\System.Runtime.WindowsRuntime.dll">
+      <PackagePath>VideoTomb\System.Runtime.WindowsRuntime.dll</PackagePath>
+      <Modified>2012-09-26T01:16:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\packages\System.ValueTuple.4.5.0\lib\net461\System.ValueTuple.dll">
+      <PackagePath>VideoTomb\System.ValueTuple.dll</PackagePath>
+      <Modified>2018-05-15T11:29:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\VideoTomb\player\index.html">
+      <PackagePath>VideoTomb\player\index.html</PackagePath>
+      <Modified>2019-12-13T10:25:39.292</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\VideoTomb\player\index.html">
+      <PackagePath>VideoTomb\player\index.html</PackagePath>
+      <Modified>2019-12-13T10:25:39.292</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\VideoTomb\player\jquery-3.4.1.min.js">
+      <PackagePath>VideoTomb\player\jquery-3.4.1.min.js</PackagePath>
+      <Modified>2019-12-13T10:25:39.296</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\VideoTomb\player\jquery-3.4.1.min.js">
+      <PackagePath>VideoTomb\player\jquery-3.4.1.min.js</PackagePath>
+      <Modified>2019-12-13T10:25:39.296</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\VideoTomb\player\style.css">
+      <PackagePath>VideoTomb\player\style.css</PackagePath>
+      <Modified>2019-12-13T10:25:39.297</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\VideoTomb\player\style.css">
+      <PackagePath>VideoTomb\player\style.css</PackagePath>
+      <Modified>2019-12-13T10:25:39.297</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\packages\Accord.3.8.2-alpha\build\Accord.dll.config">
+      <PackagePath>VideoTomb\Accord.dll.config</PackagePath>
+      <Modified>2017-11-07T00:48:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\packages\Accord.3.8.2-alpha\build\Accord.dll.config">
+      <PackagePath>VideoTomb\Accord.dll.config</PackagePath>
+      <Modified>2017-11-07T00:48:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\packages\Accord.Video.FFMPEG.x64.3.8.2-alpha\build\avcodec-57.dll">
+      <PackagePath>VideoTomb\avcodec-57.dll</PackagePath>
+      <Modified>2017-11-07T00:48:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\packages\Accord.Video.FFMPEG.x64.3.8.2-alpha\build\avdevice-57.dll">
+      <PackagePath>VideoTomb\avdevice-57.dll</PackagePath>
+      <Modified>2017-11-07T00:48:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\packages\Accord.Video.FFMPEG.x64.3.8.2-alpha\build\avfilter-6.dll">
+      <PackagePath>VideoTomb\avfilter-6.dll</PackagePath>
+      <Modified>2017-11-07T00:48:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\packages\Accord.Video.FFMPEG.x64.3.8.2-alpha\build\avformat-57.dll">
+      <PackagePath>VideoTomb\avformat-57.dll</PackagePath>
+      <Modified>2017-11-07T00:48:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\packages\Accord.Video.FFMPEG.x64.3.8.2-alpha\build\avutil-55.dll">
+      <PackagePath>VideoTomb\avutil-55.dll</PackagePath>
+      <Modified>2017-11-07T00:48:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\packages\Accord.Video.FFMPEG.x64.3.8.2-alpha\build\postproc-54.dll">
+      <PackagePath>VideoTomb\postproc-54.dll</PackagePath>
+      <Modified>2017-11-07T00:48:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\packages\Accord.Video.FFMPEG.x64.3.8.2-alpha\build\swresample-2.dll">
+      <PackagePath>VideoTomb\swresample-2.dll</PackagePath>
+      <Modified>2017-11-07T00:48:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\packages\Accord.Video.FFMPEG.x64.3.8.2-alpha\build\swscale-4.dll">
+      <PackagePath>VideoTomb\swscale-4.dll</PackagePath>
+      <Modified>2017-11-07T00:48:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\VideoTomb\FodyWeavers.xml">
+      <PackagePath>VideoTomb\FodyWeavers.xml</PackagePath>
+      <Modified>2019-10-05T14:03:37.328</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\VideoTomb\bin\Release\VideoTomb.exe">
+      <PackagePath>VideoTomb\VideoTomb.exe</PackagePath>
+      <Modified>2019-12-13T10:43:20.054</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\VideoTomb\VideoTomb\bin\Release\VideoTomb.exe.config">
+      <PackagePath>VideoTomb\VideoTomb.exe.config</PackagePath>
+      <Modified>2019-12-13T10:43:19.834</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,183 @@
+F:\VideoTomb\Packaging\BadgeLogo.scale-400.png
+F:\VideoTomb\Packaging\Images\BadgeLogo.scale-100.png
+F:\VideoTomb\Packaging\Images\BadgeLogo.scale-125.png
+F:\VideoTomb\Packaging\Images\BadgeLogo.scale-150.png
+F:\VideoTomb\Packaging\Images\BadgeLogo.scale-200.png
+F:\VideoTomb\Packaging\Images\BadgeLogo.scale-400.png
+F:\VideoTomb\Packaging\Images\LargeTile.scale-100.png
+F:\VideoTomb\Packaging\Images\LargeTile.scale-125.png
+F:\VideoTomb\Packaging\Images\LargeTile.scale-150.png
+F:\VideoTomb\Packaging\Images\LargeTile.scale-200.png
+F:\VideoTomb\Packaging\Images\LargeTile.scale-400.png
+F:\VideoTomb\Packaging\Images\SmallTile.scale-100.png
+F:\VideoTomb\Packaging\Images\SmallTile.scale-125.png
+F:\VideoTomb\Packaging\Images\SmallTile.scale-150.png
+F:\VideoTomb\Packaging\Images\SmallTile.scale-200.png
+F:\VideoTomb\Packaging\Images\SmallTile.scale-400.png
+F:\VideoTomb\Packaging\Images\SplashScreen.scale-100.png
+F:\VideoTomb\Packaging\Images\SplashScreen.scale-125.png
+F:\VideoTomb\Packaging\Images\SplashScreen.scale-150.png
+F:\VideoTomb\Packaging\Images\SplashScreen.scale-200.png
+F:\VideoTomb\Packaging\Images\SplashScreen.scale-400.png
+F:\VideoTomb\Packaging\Images\Square150x150Logo.scale-100.png
+F:\VideoTomb\Packaging\Images\Square150x150Logo.scale-125.png
+F:\VideoTomb\Packaging\Images\Square150x150Logo.scale-150.png
+F:\VideoTomb\Packaging\Images\Square150x150Logo.scale-200.png
+F:\VideoTomb\Packaging\Images\Square150x150Logo.scale-400.png
+F:\VideoTomb\Packaging\Images\Square44x44Logo.altform-unplated_targetsize-16.png
+F:\VideoTomb\Packaging\Images\Square44x44Logo.altform-unplated_targetsize-256.png
+F:\VideoTomb\Packaging\Images\Square44x44Logo.altform-unplated_targetsize-32.png
+F:\VideoTomb\Packaging\Images\Square44x44Logo.altform-unplated_targetsize-48.png
+F:\VideoTomb\Packaging\Images\Square44x44Logo.scale-100.png
+F:\VideoTomb\Packaging\Images\Square44x44Logo.scale-125.png
+F:\VideoTomb\Packaging\Images\Square44x44Logo.scale-150.png
+F:\VideoTomb\Packaging\Images\Square44x44Logo.scale-200.png
+F:\VideoTomb\Packaging\Images\Square44x44Logo.scale-400.png
+F:\VideoTomb\Packaging\Images\Square44x44Logo.targetsize-16.png
+F:\VideoTomb\Packaging\Images\Square44x44Logo.targetsize-24.png
+F:\VideoTomb\Packaging\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+F:\VideoTomb\Packaging\Images\Square44x44Logo.targetsize-256.png
+F:\VideoTomb\Packaging\Images\Square44x44Logo.targetsize-32.png
+F:\VideoTomb\Packaging\Images\Square44x44Logo.targetsize-48.png
+F:\VideoTomb\Packaging\Images\StoreLogo.scale-100.png
+F:\VideoTomb\Packaging\Images\StoreLogo.scale-125.png
+F:\VideoTomb\Packaging\Images\StoreLogo.scale-150.png
+F:\VideoTomb\Packaging\Images\StoreLogo.scale-200.png
+F:\VideoTomb\Packaging\Images\StoreLogo.scale-400.png
+F:\VideoTomb\Packaging\Images\Wide310x150Logo.scale-100.png
+F:\VideoTomb\Packaging\Images\Wide310x150Logo.scale-125.png
+F:\VideoTomb\Packaging\Images\Wide310x150Logo.scale-150.png
+F:\VideoTomb\Packaging\Images\Wide310x150Logo.scale-200.png
+F:\VideoTomb\Packaging\Images\Wide310x150Logo.scale-400.png
+C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd
+F:\VideoTomb\Packaging\bin\x64\Release\resources.pri
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net462\lib\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\Microsoft.Win32.Primitives.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\netstandard.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.AppContext.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Collections.Concurrent.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Collections.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Collections.NonGeneric.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Collections.Specialized.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.ComponentModel.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.ComponentModel.EventBasedAsync.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.ComponentModel.Primitives.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.ComponentModel.TypeConverter.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Console.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Data.Common.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Diagnostics.Contracts.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Diagnostics.Debug.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Diagnostics.FileVersionInfo.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Diagnostics.Process.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Diagnostics.StackTrace.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Diagnostics.TextWriterTraceListener.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Diagnostics.Tools.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Diagnostics.TraceSource.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Diagnostics.Tracing.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Drawing.Primitives.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Dynamic.Runtime.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Globalization.Calendars.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Globalization.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Globalization.Extensions.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.IO.Compression.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.IO.Compression.ZipFile.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.IO.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.IO.FileSystem.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.IO.FileSystem.DriveInfo.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.IO.FileSystem.Primitives.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.IO.FileSystem.Watcher.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.IO.IsolatedStorage.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.IO.MemoryMappedFiles.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.IO.Pipes.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.IO.UnmanagedMemoryStream.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Linq.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Linq.Expressions.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Linq.Parallel.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Linq.Queryable.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Net.Http.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Net.NameResolution.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Net.NetworkInformation.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Net.Ping.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Net.Primitives.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Net.Requests.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Net.Security.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Net.Sockets.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Net.WebHeaderCollection.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Net.WebSockets.Client.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Net.WebSockets.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.ObjectModel.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Reflection.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Reflection.Extensions.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Reflection.Primitives.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Resources.Reader.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Resources.ResourceManager.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Resources.Writer.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Runtime.CompilerServices.VisualC.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Runtime.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Runtime.Extensions.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Runtime.Handles.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Runtime.InteropServices.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Runtime.Numerics.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Runtime.Serialization.Formatters.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Runtime.Serialization.Json.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Runtime.Serialization.Primitives.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Runtime.Serialization.Xml.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Security.Claims.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Security.Cryptography.Algorithms.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Security.Cryptography.Csp.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Security.Cryptography.Encoding.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Security.Cryptography.Primitives.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Security.Cryptography.X509Certificates.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Security.Principal.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Security.SecureString.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Text.Encoding.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Text.Encoding.Extensions.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Text.RegularExpressions.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Threading.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Threading.Overlapped.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Threading.Tasks.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Threading.Tasks.Parallel.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Threading.Thread.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Threading.ThreadPool.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Threading.Timer.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Xml.ReaderWriter.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Xml.XDocument.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Xml.XmlDocument.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Xml.XmlSerializer.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Xml.XPath.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.Xml.XPath.XDocument.dll
+F:\VideoTomb\packages\Accord.DirectSound.3.8.2-alpha\lib\net462\Accord.Audio.DirectSound.dll
+F:\VideoTomb\packages\Accord.Audio.3.8.2-alpha\lib\net462\Accord.Audio.dll
+F:\VideoTomb\packages\Accord.3.8.2-alpha\lib\net462\Accord.dll
+F:\VideoTomb\packages\Accord.Math.3.8.2-alpha\lib\net462\Accord.Math.Core.dll
+F:\VideoTomb\packages\Accord.Math.3.8.2-alpha\lib\net462\Accord.Math.dll
+F:\VideoTomb\packages\Accord.Video.3.8.2-alpha\lib\net462\Accord.Video.dll
+F:\VideoTomb\packages\Accord.Video.FFMPEG.x64.3.8.2-alpha\lib\net462\Accord.Video.FFMPEG.x64.dll
+F:\VideoTomb\packages\MaterialSkin.0.2.1\lib\MaterialSkin.dll
+F:\VideoTomb\packages\SharpDX.DirectSound.4.0.1\lib\net45\SharpDX.DirectSound.dll
+F:\VideoTomb\packages\SharpDX.4.0.1\lib\net45\SharpDX.dll
+F:\VideoTomb\packages\System.Buffers.4.4.0\lib\netstandard2.0\System.Buffers.dll
+F:\VideoTomb\packages\System.Diagnostics.DiagnosticSource.4.3.0\lib\net46\System.Diagnostics.DiagnosticSource.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETCore\v4.5\System.Runtime.WindowsRuntime.dll
+F:\VideoTomb\packages\System.ValueTuple.4.5.0\lib\net461\System.ValueTuple.dll
+F:\VideoTomb\packages\Accord.Video.FFMPEG.x64.3.8.2-alpha\lib\net462\Accord.Video.FFMPEG.x64.pdb
+F:\VideoTomb\VideoTomb\player\index.html
+F:\VideoTomb\VideoTomb\player\index.html
+F:\VideoTomb\VideoTomb\player\jquery-3.4.1.min.js
+F:\VideoTomb\VideoTomb\player\jquery-3.4.1.min.js
+F:\VideoTomb\VideoTomb\player\style.css
+F:\VideoTomb\VideoTomb\player\style.css
+F:\VideoTomb\packages\Accord.3.8.2-alpha\build\Accord.dll.config
+F:\VideoTomb\packages\Accord.3.8.2-alpha\build\Accord.dll.config
+F:\VideoTomb\packages\Accord.Video.FFMPEG.x64.3.8.2-alpha\build\avcodec-57.dll
+F:\VideoTomb\packages\Accord.Video.FFMPEG.x64.3.8.2-alpha\build\avdevice-57.dll
+F:\VideoTomb\packages\Accord.Video.FFMPEG.x64.3.8.2-alpha\build\avfilter-6.dll
+F:\VideoTomb\packages\Accord.Video.FFMPEG.x64.3.8.2-alpha\build\avformat-57.dll
+F:\VideoTomb\packages\Accord.Video.FFMPEG.x64.3.8.2-alpha\build\avutil-55.dll
+F:\VideoTomb\packages\Accord.Video.FFMPEG.x64.3.8.2-alpha\build\postproc-54.dll
+F:\VideoTomb\packages\Accord.Video.FFMPEG.x64.3.8.2-alpha\build\swresample-2.dll
+F:\VideoTomb\packages\Accord.Video.FFMPEG.x64.3.8.2-alpha\build\swscale-4.dll
+F:\VideoTomb\VideoTomb\FodyWeavers.xml
+F:\VideoTomb\VideoTomb\bin\Release\VideoTomb.exe
+F:\VideoTomb\VideoTomb\bin\Release\VideoTomb.exe.config
+F:\VideoTomb\VideoTomb\bin\Release\VideoTomb.pdb

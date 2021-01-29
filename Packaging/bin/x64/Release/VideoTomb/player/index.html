@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>VideoTomb Preview</title>
+	<link rel="stylesheet" href="style.css" type="text/css" media="screen" />
+</head>
+<body>
+
+<video id="frame" controls>
+    <source src="../[VIDEOFILE]" type="video/mp4">
+</video>
+
+<img id="mask" class="layer" src="../[MASKFILE]">
+<div id="multiplier" class="layer"></div>
+<span id="message">Hover mouse to toggle mask</span>
+
+<script src="jquery-3.4.1.min.js"></script>
+<script>
+$(document).ready(function() {
+    $("#multiplier").css("background-color", "rgb([MULTIPLIER],[MULTIPLIER],[MULTIPLIER])");
+});
+
+$(document).mouseenter(function() {
+	$(".layer").hide();
+});
+
+$(document).mouseleave(function() {
+	$(".layer").show();
+});
+</script>
+
+</body>
+</html>
