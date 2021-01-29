@@ -6,7 +6,9 @@ For an example output video, see Sample.mp4 in the Sample directory. The buck bu
 
 The videos can be watched with the HTML/JS decoder in VideoTomb/player directory, which will embed the video player of the upload site in an iframe (can be Youtube), with the encoding mask on top.
 
-Mono support is unavailable due to use of MaterialSkin which is a bit of a shame.
+Mono support is untested, currently working on it, but depends on Accord.
+
+Noise hash functionality as an alternative to image mask is still in the source, but the Javascript side has been lost partially. I've decided to exclude it, but maybe I'll get back to it. This would allow to supply an encryption/decryption hash in the url.
 
 I tried to clean up the directories and files a bit, but am no longer actively working on the project.
 
