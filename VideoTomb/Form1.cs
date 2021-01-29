@@ -1,19 +1,15 @@
 ﻿using VideoTomb.Core.Systems;
 using VideoTomb.Core.Util;
-using MaterialSkin.Controls;
 using System;
 using System.IO;
 using System.Threading;
 using System.Windows.Forms;
 using VideoTomb.Core.Processing;
-using Windows.Services.Store;
-using System.Drawing;
-using MaterialSkin;
 using System.Diagnostics;
 
 namespace VideoTomb
 {
-    public partial class Form1 : MaterialForm
+    public partial class Form1 : Form
     {
         private Manager processor = null;
         private Thread thread = null;
@@ -25,8 +21,6 @@ namespace VideoTomb
         public Form1()
         {
             InitializeComponent();
-
-            this.SkinManager.ColorScheme = new ColorScheme(Primary.Orange600, Primary.DeepOrange600, Primary.Orange600, Accent.Yellow100, TextShade.BLACK);
 
             this.outputPath.Text = Environment.GetFolderPath(Environment.SpecialFolder.MyVideos);
             this.inputDialog.Filter = "Video Files (*.mp4;*.mov;*.webm)|*.MP4;*.MOV;*.WEBM";

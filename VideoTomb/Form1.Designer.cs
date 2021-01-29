@@ -587,7 +587,6 @@ namespace VideoTomb
             this.Controls.Add(this.linkLabel);
             this.MaximizeBox = false;
             this.Name = "Form1";
-            this.Sizable = false;
             this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide;
             this.DragEnter += new System.Windows.Forms.DragEventHandler(this.Input_DragDrop);
             this.groupBox1.ResumeLayout(false);
